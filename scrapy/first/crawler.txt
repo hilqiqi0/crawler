@@ -1,0 +1,528 @@
+{"positionName": "24491-大数据运维工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=44008&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "OMG097-数据平台开发工程师（北京）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43983&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "21557-音视频专项技术测试工程师(深圳)", "positionLink": "https://hr.tencent.com/position_detail.php?id=43979&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "20503-AI应用Linux后台研发工程师（上海）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43957&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "20503-优图专项测试工程师（上海）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43961&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "27087-计算机视觉/图像识别工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43950&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "23671-数据开发工程师（北京）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43952&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SNG04-QQ看点iOS开发工程师（上海）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43945&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SNG11-高级数据分析师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43947&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "25926-NLP算法高级工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43949&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "WXG02-116 微信质量平台开发工程师（广州）", "positionLink": "https://hr.tencent.com/position_detail.php?id=44044&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "WXG03-211小程序数据分析（广州）", "positionLink": "https://hr.tencent.com/position_detail.php?id=44049&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "WXG10-154 企业微信系统测试工程师（广州）", "positionLink": "https://hr.tencent.com/position_detail.php?id=44025&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "TEG13-小语种机器翻译算法工程师 （北京）", "positionLink": "https://hr.tencent.com/position_detail.php?id=44029&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "TEG13-小语种语音算法工程师（北京）", "positionLink": "https://hr.tencent.com/position_detail.php?id=44030&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "MIG16-地图大数据挖掘工程师", "positionLink": "https://hr.tencent.com/position_detail.php?id=44021&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "24491-大数据运维工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=44008&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "OMG097-数据平台开发工程师（北京）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43983&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "21557-音视频专项技术测试工程师(深圳)", "positionLink": "https://hr.tencent.com/position_detail.php?id=43979&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "20503-优图专项测试工程师（上海）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43961&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "20503-AI应用Linux后台研发工程师（上海）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43957&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SNG11-高级数据分析师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43947&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "27087-计算机视觉/图像识别工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43950&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "23671-数据开发工程师（北京）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43952&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "TEG03-高级爬虫工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43940&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SNG04-QQ看点iOS开发工程师（上海）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43945&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "25926-NLP算法高级工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43949&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SA-腾讯社交广告测试开发工程师（研发中心 北京）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43937&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SA-腾讯社交广告推荐算法与系统工程师（北京）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43935&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "MIG03-腾讯测试开发工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43918&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "MIG03-腾讯Android开发工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43919&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "23048-翻译君NLP算法高级工程师(北京)", "positionLink": "https://hr.tencent.com/position_detail.php?id=43900&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SNG16-腾讯音乐音频算法研究员-MIR方向（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43907&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SA-腾讯社交广告web前端开发工程师（QQ广告 深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43876&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "26564-后台开发工程师(深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43871&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "18796-平台业务经营分析师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43877&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "27553-腾讯音乐数据分析与开发工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43836&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "27553-腾讯音乐数据分析与开发工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43837&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "WXG02-116 微信搜索和信息流系统测试工程师（广州）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43831&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SA-腾讯社交广告数据分析工程师（OM广告 深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43811&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "WXG08-113 微信推荐策略开发工程师（北京）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43801&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "18425-金融人工智能高级研究员", "positionLink": "https://hr.tencent.com/position_detail.php?id=43802&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "25927-高级测试开发工程师（上海）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43793&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SA-社交与效果广告创意洞察研究经理（北京）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43781&keywords=python&tid=0&lid=0", "positionType": "市场类"}
+{"positionName": "22989-腾讯云接入层运维工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43757&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "22989-高级业务运维工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43762&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SNG11-业务运维工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43763&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "25923-自研游戏技术运营工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43745&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "25926-后台策略工作师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43746&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "MIG12-业务运维工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43728&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "MIG12-高级后台开发工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43725&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "25663-智慧零售业务中心前端开发（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43717&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "WXG01-122 自然语言处理算法工程师（北京）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43719&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SNG02-腾讯云汽车行业方案架构师（北京/上海/深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43706&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "TEG13-数据挖掘算法工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43679&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "TEG15-数据挖掘工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43668&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "TEG15-风控（海外）策略及数据分析工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43666&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "27441-数据审计&分析经理（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43633&keywords=python&tid=0&lid=0", "positionType": "职能类"}
+{"positionName": "25923-游戏高级技术运营工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43622&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "WXG02-111 微信搜索数据分析工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43615&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "25923-游戏运维工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43620&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SNG04-内容后台开发工程师(深圳)", "positionLink": "https://hr.tencent.com/position_detail.php?id=43611&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SNG04-内容算法工程师(深圳)", "positionLink": "https://hr.tencent.com/position_detail.php?id=43612&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "MIG12-大数据研发工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43613&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "MIG03-车联网车厂合作项目品质管理工程师（北京）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43606&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "21309-在线教育c++/java/go后台高级研发工程师(深圳)", "positionLink": "https://hr.tencent.com/position_detail.php?id=43596&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "OMG153-运营管理数据分析师（北京）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43597&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "22989-腾讯云存储COS后台研发工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43585&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "18428--数据库工程师（深圳", "positionLink": "https://hr.tencent.com/position_detail.php?id=43578&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "MIG16-自动驾驶云平台高级基础架构工程师(北京)", "positionLink": "https://hr.tencent.com/position_detail.php?id=43571&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "15851-游戏专项测试开发工程师(深圳)", "positionLink": "https://hr.tencent.com/position_detail.php?id=43563&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "MIG15-叮当闲聊算法研究员", "positionLink": "https://hr.tencent.com/position_detail.php?id=43564&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "MIG03-高级智能创新产品测试开发工程师（成都）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43565&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "25923-大数据研发工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43538&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "22989-高级大数据开发工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43539&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SA-腾讯社交广告高级大数据开发工程师（微信广告 深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43526&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "TEG13-数据挖掘工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43519&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "TEG05-数据产品经理（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43509&keywords=python&tid=0&lid=0", "positionType": "产品/项目类"}
+{"positionName": "TEG06-Openstack高级云计算研发工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43510&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "TEG06-专家渗透测试工程师 （深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43502&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "WXG07-113 广州研发部后台安全策略工程师（广州）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43505&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "25929-沙盒游戏运营WEB开发工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43489&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "25928-高级工具开发工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43482&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "25929-互娱数据经营分析师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43488&keywords=python&tid=0&lid=0", "positionType": "产品/项目类"}
+{"positionName": "18428-金融（银行）业务系统架构师", "positionLink": "https://hr.tencent.com/position_detail.php?id=43471&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "MIG09-浏览器资讯推荐高级算法工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43472&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "OMG097-数据平台开发工程师（北京）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43466&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SNG07-业务高级系统测试工程师", "positionLink": "https://hr.tencent.com/position_detail.php?id=43449&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "25927-游戏测试经理（成都）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43434&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SNG07-看点系统测试工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43426&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "26564-游戏社区数据开发工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43402&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "15579-游戏后台开发工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43406&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "27092-商业化广告后台开发（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43400&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "18796-后台开发工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43401&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "20503-优图AI交付架构师(上海）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43390&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SNG11-高级业务运维", "positionLink": "https://hr.tencent.com/position_detail.php?id=43386&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SNG11-织云运营开发工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43376&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "MIG16-地图导航引擎开发工程师（北京）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43373&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SNG11-组件运维工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43365&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "OMG148-数据抓取工程师（北京）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43348&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SNG07-天天P图系统测试工程师（上海）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43354&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "21882-医学NLP研究员", "positionLink": "https://hr.tencent.com/position_detail.php?id=43325&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "20503-安防线后台开发工程师（上海）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43317&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "21882-后台开发", "positionLink": "https://hr.tencent.com/position_detail.php?id=43324&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "21882-医学NLP研究员", "positionLink": "https://hr.tencent.com/position_detail.php?id=43326&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "MIG09-视频推荐策略产品经理", "positionLink": "https://hr.tencent.com/position_detail.php?id=43308&keywords=python&tid=0&lid=0", "positionType": "产品/项目类"}
+{"positionName": "22989-腾讯云运营系统开发工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43305&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SNG08-微视视频推荐后台开发（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43298&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SNG08-微视产品数据分析师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43293&keywords=python&tid=0&lid=0", "positionType": "产品/项目类"}
+{"positionName": "TEG02-数据分析工程师", "positionLink": "https://hr.tencent.com/position_detail.php?id=43251&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "MIG03-资深运营开发工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43253&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "18302-动作类手游资深TA（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43238&keywords=python&tid=0&lid=0", "positionType": "设计类"}
+{"positionName": "22989-腾讯云资深运营开发工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43239&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "WXG02-134 微信运营优化分析工程师（广州）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43224&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "WXG02-134 微信数据平台运营工程师(广州）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43225&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SNG17-QQ钱包后台开发工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43226&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "23674-腾讯新闻数据产品经理", "positionLink": "https://hr.tencent.com/position_detail.php?id=43211&keywords=python&tid=0&lid=0", "positionType": "产品/项目类"}
+{"positionName": "TEG13-大数据开发工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43216&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "25924-互娱游戏网站运维工程师（上海）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43203&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "22989-云服务开发工程师（NLP方向）（北京）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43175&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SNG17-支付后台开发工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43181&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "27092-应用宝商业化后台开发（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43171&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "25927-高级测试开发工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43173&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "25923-海外游戏技术运营工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43158&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "OMG064-(高级)测试开发工程师（上海）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43147&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "22025-沙盒游戏资深TA技术美术（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43150&keywords=python&tid=0&lid=0", "positionType": "设计类"}
+{"positionName": "23673-高级全栈工程师（偏向后端）（北京）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43140&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "OMG064-广告数据挖掘与算法工程师（上海）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43134&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "MIG06-应用宝后台开发工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43123&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SA-Machine Learning Algorithm Engineer （Shenzhen/Beijing）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43109&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SA-Machine Learning Algorithm Engineer （Shenzhen/Beijing）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43110&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SNG11-高级NLP研究员（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43102&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "TEG13-业务运维工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43086&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "MIG03-高级用户研究员", "positionLink": "https://hr.tencent.com/position_detail.php?id=43085&keywords=python&tid=0&lid=0", "positionType": "设计类"}
+{"positionName": "TEG13-基础平台研发总监（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43051&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "23294-互娱移动电竞测试开发工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43024&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SNG16-腾讯音乐业务运维工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43009&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SNG16-腾讯音乐存储运维工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43010&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SNG16-腾讯音乐运营开发工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43011&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SNG11-运营开发工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43001&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "TEG02-高级网络运营工程师DC（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43004&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "TEG02-高级网络运营工程师DCI（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43005&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "TEG02-网络运营架构师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43006&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "TEG02-云业务保障工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=43003&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "28603-116 微信支付测试开发工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=42988&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SA-腾讯社交广告高级测试开发工程师（微信广告方向 深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=42975&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "OMG097-数据开发工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=42972&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "28600-113 微信支付后台开发工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=42967&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "24491-海外市场大数据分析师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=42961&keywords=python&tid=0&lid=0", "positionType": "产品/项目类"}
+{"positionName": "GY0-运维开发工程师", "positionLink": "https://hr.tencent.com/position_detail.php?id=42934&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "GY0-web前端开发工程师", "positionLink": "https://hr.tencent.com/position_detail.php?id=42922&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SNG17-手Q轻游戏平台后台开发工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=42924&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "28603-113 微信支付核心支付开发工程师(深圳)", "positionLink": "https://hr.tencent.com/position_detail.php?id=42917&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SA-腾讯社交广告大数据后台开发工程师", "positionLink": "https://hr.tencent.com/position_detail.php?id=42918&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "20503-深度学习视频算法研究员（上海）", "positionLink": "https://hr.tencent.com/position_detail.php?id=42908&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SNG08-深度学习（图像处理）研发工程师（上海）", "positionLink": "https://hr.tencent.com/position_detail.php?id=42886&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "18428-AI测试工程师", "positionLink": "https://hr.tencent.com/position_detail.php?id=42888&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "OMG097-高级算法工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=42875&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "TEG02-SDN网络测试工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=42855&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SNG08-微视高级后台软件工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=42837&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "22989-腾讯云运营开发工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=42832&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "25924-大数据运维工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=42816&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "25926-NLP工程师（上海）", "positionLink": "https://hr.tencent.com/position_detail.php?id=42794&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "MIG16-腾讯地图服务质量和用户数据分析专家", "positionLink": "https://hr.tencent.com/position_detail.php?id=42732&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "27092-机器学习系统开发工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=42737&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "MIG12-业务运维工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=42716&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SNG04-后台开发工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=42706&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "MIG08-国铁吉讯-业务运维高级工程师", "positionLink": "https://hr.tencent.com/position_detail.php?id=42686&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "MIG08-国铁吉讯-业务运维工程师", "positionLink": "https://hr.tencent.com/position_detail.php?id=42687&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "TEG13-后台开发工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=42639&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SNG07-高级系统测试工程师", "positionLink": "https://hr.tencent.com/position_detail.php?id=42629&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SNG07-云测试高级工程师（成都）", "positionLink": "https://hr.tencent.com/position_detail.php?id=42630&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "WXG08-113 微信推荐后台开发工程师（北京）", "positionLink": "https://hr.tencent.com/position_detail.php?id=42627&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "WXG08-113 微信搜索基础后台开发工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=42628&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "MIG08-系统工程师（北京）", "positionLink": "https://hr.tencent.com/position_detail.php?id=42594&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "15570-RPG新游戏高级技术美术（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=42590&keywords=python&tid=0&lid=0", "positionType": "设计类"}
+{"positionName": "WXG08-121 微信商业数据分析工程师（广州）", "positionLink": "https://hr.tencent.com/position_detail.php?id=42578&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "18436-金融高级数据分析工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=42577&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SNG04-后台高级工程师", "positionLink": "https://hr.tencent.com/position_detail.php?id=42553&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "MIG03-大数据测试工程师（广州/深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=42558&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "WXG08-122 微信推荐数据挖掘工程师PW（广州）", "positionLink": "https://hr.tencent.com/position_detail.php?id=42537&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SNG04-算法工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=42542&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SNG16-腾讯音乐音频机器学习算法工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=42531&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "18436-资产证券化云平台金融风控专家", "positionLink": "https://hr.tencent.com/position_detail.php?id=42527&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SNG16-腾讯音乐音质检测与评估算法工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=42530&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "TEG02-网络管理平台资深架构师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=42516&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "22989-云网络后台开发工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=42517&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "22989-腾讯云网络后台研发工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=42518&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SNG11-视频云业务运维高级工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=42521&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SNG11-织云运营开发工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=42522&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "26711-后台开发工程师（北京）", "positionLink": "https://hr.tencent.com/position_detail.php?id=42494&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SNG02-云视频点播Golang开发工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=42487&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "WXG02-133 微信小游戏高级运维工程师（广州/深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=42488&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "22989-专有云数据库运维工程师（北京/上海/深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=42472&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "22989-专有云存储运维工程师(北京/上海/深圳)", "positionLink": "https://hr.tencent.com/position_detail.php?id=42473&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "22989-专有云平台运维工程师（北京/上海/深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=42475&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SNG16-腾讯音乐多媒体AI研究员（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=42477&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SNG08-企鹅FM&微视后台开发工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=42478&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "22989-专有云计算运维工程师（北京/上海/深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=42470&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "22989-专有云网络运维工程师（北京/上海/深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=42471&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "22989-专有云中间件运维工程师(北京/上海/深圳)", "positionLink": "https://hr.tencent.com/position_detail.php?id=42474&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "25923-Python高级工程师", "positionLink": "https://hr.tencent.com/position_detail.php?id=42460&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "25923-数据分析平台开发工程师（Python）（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=42445&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "TEG13-语音唤醒算法工程师（北京）", "positionLink": "https://hr.tencent.com/position_detail.php?id=42452&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "21527-腾讯音乐企业IT质量管理工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=42442&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "25926-后台策略安全工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=42421&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "25927-移动游戏高级测试开发工程师（上海）", "positionLink": "https://hr.tencent.com/position_detail.php?id=42426&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "25926-后台策略安全工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=42420&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "WXG02-113 微信监控平台后台开发工程师（广州）", "positionLink": "https://hr.tencent.com/position_detail.php?id=42402&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "WXG02-122 微信监控平台算法工程师（广州）", "positionLink": "https://hr.tencent.com/position_detail.php?id=42403&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "25924-运营平台架构师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=42394&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "22989-FPGA验证工程师", "positionLink": "https://hr.tencent.com/position_detail.php?id=42396&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "WXG02-113 微信云平台后台开发工程师（广州）", "positionLink": "https://hr.tencent.com/position_detail.php?id=42399&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "28603-113 微信支付智慧营销开发工程师（广州）", "positionLink": "https://hr.tencent.com/position_detail.php?id=42376&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "21557-音视频实验室音频算法专家（深圳/北京/美国）", "positionLink": "https://hr.tencent.com/position_detail.php?id=42378&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "OMG064-系统测试工程师（上海）", "positionLink": "https://hr.tencent.com/position_detail.php?id=42358&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "WXG02-133 微信运维工程师(广州）", "positionLink": "https://hr.tencent.com/position_detail.php?id=42347&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SNG04-社交化推荐后台高级工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=42349&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "28604-114 微信支付商户应用开发工程师", "positionLink": "https://hr.tencent.com/position_detail.php?id=42330&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "28603-116 微信支付架构治理开发工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=42321&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "28601-114 微信支付智慧应用开发工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=42322&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "28607-122 微信支付知识发现高级工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=42323&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "28604-113 微信支付支付应用开发工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=42326&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "28603-113 微信支付智慧营销开发工程师", "positionLink": "https://hr.tencent.com/position_detail.php?id=42327&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "28605-114 微信支付国际化业务开发工程师", "positionLink": "https://hr.tencent.com/position_detail.php?id=42331&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SNG11-云安全Web前端开发工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=42308&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SNG16-腾讯音乐自然语言处理工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=42301&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "25923-游戏CDN高级运维工程师", "positionLink": "https://hr.tencent.com/position_detail.php?id=42294&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SNG16-腾讯音乐视觉算法工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=42299&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SNG16-音频算法工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=42300&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "25923-大数据运维工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=42293&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "TEG02-云业务保障工程师", "positionLink": "https://hr.tencent.com/position_detail.php?id=42275&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "22989-腾讯云PAAS产品高级后端开发工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=42260&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "22989-腾讯云计算产品全栈工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=42228&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "TEG01-后台开发工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=42219&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "18796-游戏平台APP测试工程师(深圳)", "positionLink": "https://hr.tencent.com/position_detail.php?id=42221&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "OMG097-移动媒体业务运维（北京）", "positionLink": "https://hr.tencent.com/position_detail.php?id=42215&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "22989-AI高级应用软件工程师（北京）", "positionLink": "https://hr.tencent.com/position_detail.php?id=42191&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "15687-互娱高级游戏技术美术(深圳)", "positionLink": "https://hr.tencent.com/position_detail.php?id=42183&keywords=python&tid=0&lid=0", "positionType": "设计类"}
+{"positionName": "25927-游戏测试经理（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=42170&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "25927-高级测试开发工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=42172&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "26711-汽车业务开发组长（北京）", "positionLink": "https://hr.tencent.com/position_detail.php?id=42181&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "MIG09-QQ浏览器大资讯高级后台开发工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=42159&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "25927-游戏测试经理（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=42171&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "23674-推荐引擎开发工程师", "positionLink": "https://hr.tencent.com/position_detail.php?id=42156&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SNG11-集群后台开发工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=42149&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "MIG06-机器学习系统开发工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=42128&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SNG07-看点系统测试工程师（上海）", "positionLink": "https://hr.tencent.com/position_detail.php?id=42113&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "18796-后台开发工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=42081&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SNG11-高级集群技术工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=42067&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "25926-游戏安全运营开发工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=42061&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "19332-自然语言处理工程师（上海）", "positionLink": "https://hr.tencent.com/position_detail.php?id=42052&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "OMG064-广告数据平台开发工程师（上海）", "positionLink": "https://hr.tencent.com/position_detail.php?id=42056&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SA-腾讯社交广告算法高级研究员（研发中心 深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=42026&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "22989-腾讯云后台开发工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=42022&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "18796-游戏后台研发工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=41998&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SNG04-QQ看点内容平台图文UGC内容中心高级后台开发工程师（上海）", "positionLink": "https://hr.tencent.com/position_detail.php?id=41976&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "WXG02-112 微信运营开发工程师（数据分析）（广州）", "positionLink": "https://hr.tencent.com/position_detail.php?id=41934&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "WXG02-112 微信运维高级工程师（SRE/DevOps）（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=41922&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SA-腾讯社交广告数据管理高级工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=41895&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "XN-系统测试工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=41898&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "TEG02-网管系统后台开发工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=41901&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "22989-大数据和人工智能开发工程师 （深圳/北京/上海/成都）", "positionLink": "https://hr.tencent.com/position_detail.php?id=41887&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SNG08-推荐算法工程师(深圳)", "positionLink": "https://hr.tencent.com/position_detail.php?id=41888&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SA-腾讯社交广告高级系统测试工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=41890&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "15573-全球化SLG数据分析与挖掘（上海）", "positionLink": "https://hr.tencent.com/position_detail.php?id=41877&keywords=python&tid=0&lid=0", "positionType": "产品/项目类"}
+{"positionName": "MIG08-数据分析工程师（广州）", "positionLink": "https://hr.tencent.com/position_detail.php?id=41867&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "25927-移动游戏高级测试开发工程师（成都）", "positionLink": "https://hr.tencent.com/position_detail.php?id=41853&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "WXG10-133 企业微信运维工程师（广州）", "positionLink": "https://hr.tencent.com/position_detail.php?id=41854&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "22989-腾讯云售后技术支持（北京）", "positionLink": "https://hr.tencent.com/position_detail.php?id=41836&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "22989-腾讯云售后技术支持（成都）", "positionLink": "https://hr.tencent.com/position_detail.php?id=41837&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "25928-linux后台开发高级工程师", "positionLink": "https://hr.tencent.com/position_detail.php?id=41810&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SNG11-高级业务运维工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=41750&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SNG11-知识图谱C/C++后台开发工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=41743&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SNG11-数据运维工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=41716&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SNG04-看点-资深算法工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=41693&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SNG04-看点-算法工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=41694&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "TEG03-数据库运维工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=41678&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "25924-机器学习高级研究员（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=41653&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "TEG03-实时平台组组长（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=41594&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "TEG03-后台开发工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=41595&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "TEG03-海量计算组组长（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=41591&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "25927-游戏测试经理（上海）", "positionLink": "https://hr.tencent.com/position_detail.php?id=41581&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "25927-WeTest高级测试开发工程师（上海）", "positionLink": "https://hr.tencent.com/position_detail.php?id=41582&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "25927-移动游戏安全高级专项测试（成都）", "positionLink": "https://hr.tencent.com/position_detail.php?id=41583&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "25928-linux后台开发工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=41557&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "23675-后台开发工程师（北京）", "positionLink": "https://hr.tencent.com/position_detail.php?id=41503&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "27092-应用宝web前端开发工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=41472&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SNG16-腾讯音乐专项测试开发工程师（深圳）（专场招聘）", "positionLink": "https://hr.tencent.com/position_detail.php?id=41423&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SNG11-推荐算法高级研究员（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=41403&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "TEG05-高级业务运维工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=41412&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "25926-机器学习算法高级工程师", "positionLink": "https://hr.tencent.com/position_detail.php?id=41404&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "22989-专有云高级后台研发工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=41283&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "WXG10-143 企业微信后台安全策略工程师（广州）", "positionLink": "https://hr.tencent.com/position_detail.php?id=41297&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "WXG10-112 企业微信运营开发工程师（广州）", "positionLink": "https://hr.tencent.com/position_detail.php?id=41299&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "WXG10-113 企业微信技术合作中心后台开发工程师（广州）", "positionLink": "https://hr.tencent.com/position_detail.php?id=41300&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "27730-短视频数据分析产品经理（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=41250&keywords=python&tid=0&lid=0", "positionType": "产品/项目类"}
+{"positionName": "27216-腾讯乘车码开发工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=41260&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "MIG16-自动驾驶决策规划（北京）", "positionLink": "https://hr.tencent.com/position_detail.php?id=41282&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "S2-机器学习高级工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=41216&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "22989-腾讯云专项技术支持工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=41211&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "22989-腾讯云售后技术支持（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=41146&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SNG16-腾讯音乐专项测试开发工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=41137&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "腾讯网个性化大数据系统架构师", "positionLink": "https://hr.tencent.com/position_detail.php?id=41017&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "23674-高级推荐引擎开发工程师（北京）", "positionLink": "https://hr.tencent.com/position_detail.php?id=41027&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "MIG08-图像识别高级研究员（广州/北京）", "positionLink": "https://hr.tencent.com/position_detail.php?id=41031&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "15575-《王者荣耀》资深技术美术（成都）", "positionLink": "https://hr.tencent.com/position_detail.php?id=41000&keywords=python&tid=0&lid=0", "positionType": "设计类"}
+{"positionName": "SNG11-接入运维工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=41001&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SNG07-云测试高级工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=40948&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "15575-《王者荣耀》后台开发高级工程师（成都）", "positionLink": "https://hr.tencent.com/position_detail.php?id=40881&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "TEG03-后台开发工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=40898&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "MIG03-用户研究组长", "positionLink": "https://hr.tencent.com/position_detail.php?id=40839&keywords=python&tid=0&lid=0", "positionType": "设计类"}
+{"positionName": "25663-智慧零售行业Web开发工程师（成都）", "positionLink": "https://hr.tencent.com/position_detail.php?id=40841&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "OMG064-广告算法与数据挖掘工程师（上海）", "positionLink": "https://hr.tencent.com/position_detail.php?id=40714&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SA-腾讯社交广告算法工程师（微信广告 深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=40717&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "OMG064-应用开发工程师（上海）", "positionLink": "https://hr.tencent.com/position_detail.php?id=40713&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SNG04-社交化推荐后台高级工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=40675&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SA-腾讯社交广告机器学习算法工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=40657&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "22989-腾讯云大客户售后技术支持高级顾问（上海）", "positionLink": "https://hr.tencent.com/position_detail.php?id=40642&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "WXG02-113 微信数据平台开发工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=40572&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "MIG08-NLP算法研究（广州/北京）", "positionLink": "https://hr.tencent.com/position_detail.php?id=40569&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "22989-腾讯云商业数据库研发leader(北京/上海/深圳/成都)", "positionLink": "https://hr.tencent.com/position_detail.php?id=40453&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SNG16-运营开发工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=40401&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "OMG097-运营开发高级工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=40419&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "25923-移动游戏运维工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=40345&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SA-腾讯社交广告数据分析师（深圳 ）", "positionLink": "https://hr.tencent.com/position_detail.php?id=40351&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SNG07-测试开发工程师（上海）", "positionLink": "https://hr.tencent.com/position_detail.php?id=40299&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SNG11-运营开发工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=40303&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "TEG09-推荐系统后台开发工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=40274&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "25928-Web后台开发高级工程师（上海）", "positionLink": "https://hr.tencent.com/position_detail.php?id=40293&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "WXG01-117 微信Android客户端开发工程师（广州）", "positionLink": "https://hr.tencent.com/position_detail.php?id=40169&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "25924-潘多拉测试工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=40098&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "TEG14-高级web前端开发工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=40109&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SNG04-QQ看点推送内容推荐算法工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=40049&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SNG11-业务运维工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=40061&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "25928-游戏云高级前端开发工程师（上海）", "positionLink": "https://hr.tencent.com/position_detail.php?id=40031&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "WXG01-113 微信后台开发工程师（广州）", "positionLink": "https://hr.tencent.com/position_detail.php?id=39973&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "MIG06-应用宝数据挖掘算法工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=39925&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "WXG10-143 企业微信后台策略安全高级工程师（广州）", "positionLink": "https://hr.tencent.com/position_detail.php?id=39885&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SNG11-AIOps应用/算法运维工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=39855&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "WXG03-122 小程序算法工程师（广州）", "positionLink": "https://hr.tencent.com/position_detail.php?id=39858&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "MIG06-应用宝推荐架构后台开发（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=39820&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "TEG03-数据挖掘工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=39844&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "25923-游戏高级技术运营工程师（成都）", "positionLink": "https://hr.tencent.com/position_detail.php?id=39804&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "MIG08-推荐算法工程师（广州）", "positionLink": "https://hr.tencent.com/position_detail.php?id=39784&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "23674-新闻图像视频算法高级工程师（北京）", "positionLink": "https://hr.tencent.com/position_detail.php?id=39799&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "MIG03-安全测试开发工程师（北京）", "positionLink": "https://hr.tencent.com/position_detail.php?id=39714&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "23674-新闻搜索算法高级工程师（北京）", "positionLink": "https://hr.tencent.com/position_detail.php?id=39658&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "23674-搜索架构高级工程师（北京）", "positionLink": "https://hr.tencent.com/position_detail.php?id=39659&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SA-腾讯社交广告测试开发工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=39590&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SNG16-腾讯音乐移动产品质量测试工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=39597&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "28603-113 微信支付核心支付开发工程师(广州)", "positionLink": "https://hr.tencent.com/position_detail.php?id=39584&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "MIG09-大数据高级研发工程师-用户画像", "positionLink": "https://hr.tencent.com/position_detail.php?id=39530&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "WXG04-211 微信小游戏产品策划（平台）", "positionLink": "https://hr.tencent.com/position_detail.php?id=39535&keywords=python&tid=0&lid=0", "positionType": "产品/项目类"}
+{"positionName": "26563-高级后台开发工程师(深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=39543&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SNG11-后台运营开发工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=39549&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "27087-高级广告算法工程师 （深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=39498&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SNG16-腾讯音乐后台质量测试工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=39473&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "24491-游戏高级测试工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=39462&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "OMG064-应用开发工程师（上海）", "positionLink": "https://hr.tencent.com/position_detail.php?id=39411&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "18428-财付通组件平台高级研发工程师", "positionLink": "https://hr.tencent.com/position_detail.php?id=39420&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "TEG17-Senior Researcher（美国）", "positionLink": "https://hr.tencent.com/position_detail.php?id=39318&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "MIG03-AI评价优化高级工程师（广州/深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=39230&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SNG11-知识图谱AI研发工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=39245&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "25926-自然语言处理算法工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=39246&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SA-腾讯社交广告算法工程师（研发中心 北京）", "positionLink": "https://hr.tencent.com/position_detail.php?id=39160&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "17757-腾讯网个性化资讯推荐算法工程师（北京）", "positionLink": "https://hr.tencent.com/position_detail.php?id=39073&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "25578-医疗AI后台开发工程师", "positionLink": "https://hr.tencent.com/position_detail.php?id=39087&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SA-腾讯社交广告自然语言处理工程师（微信广告 深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=39025&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SA-腾讯社交广告后台开发工程师（微信广告-生态建设 深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=39026&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "WXG02-133 微信支付运维工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=38974&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "WXG02-133 微信看一看运维工程师（广州）", "positionLink": "https://hr.tencent.com/position_detail.php?id=38976&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "WXG02-141 微信运维安全工程师（广州）", "positionLink": "https://hr.tencent.com/position_detail.php?id=38980&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "23671-数据开发工程师（北京）", "positionLink": "https://hr.tencent.com/position_detail.php?id=38965&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "WXG02-112 微信运维高级工程师（SRE/DevOps）（广州）", "positionLink": "https://hr.tencent.com/position_detail.php?id=38972&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "MIG18-开放平台前端开发工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=38942&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "TEG03-自然语言处理高级工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=38943&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SNG11-数据挖掘高级工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=38924&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "OMG097-系统测试工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=38911&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SNG11-人工智能研究员（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=38819&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "TEG03-大数据服务测试工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=38759&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "25663-腾讯云AI行业方案专家（北京）", "positionLink": "https://hr.tencent.com/position_detail.php?id=38674&keywords=python&tid=0&lid=0", "positionType": "产品/项目类"}
+{"positionName": "SNG03-数据分析经理（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=38749&keywords=python&tid=0&lid=0", "positionType": "产品/项目类"}
+{"positionName": "MIG07-策略安全工程师（北京）", "positionLink": "https://hr.tencent.com/position_detail.php?id=38609&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "MIG07-安全分析工程师", "positionLink": "https://hr.tencent.com/position_detail.php?id=38610&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SNG11-高级客户端安全工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=38613&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SNG02-数据挖掘工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=38603&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "28607-113 微信支付大数据应用开发工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=38543&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SA-大数据运维高级工程师", "positionLink": "https://hr.tencent.com/position_detail.php?id=38539&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "25923-python后台开发工程师（深圳/上海）", "positionLink": "https://hr.tencent.com/position_detail.php?id=38509&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "MIG16-手图高级后台开发工程师（北京）", "positionLink": "https://hr.tencent.com/position_detail.php?id=38417&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "22989-腾讯云后台研发工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=38392&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "TEG05-高级后台系统开发工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=38295&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "WXG01-117 微信iOS客户端开发工程师（广州）", "positionLink": "https://hr.tencent.com/position_detail.php?id=38309&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "WXG01-122 微信数据挖掘工程师（广州）", "positionLink": "https://hr.tencent.com/position_detail.php?id=38311&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "24547-高级广告算法工程师（上海）", "positionLink": "https://hr.tencent.com/position_detail.php?id=38293&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "28600-113 微信支付后台开发工程师（广州）", "positionLink": "https://hr.tencent.com/position_detail.php?id=38251&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "MIG16-AI算法研究（北京）", "positionLink": "https://hr.tencent.com/position_detail.php?id=38255&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "WXG10-133 企业微信高级运维工程师（广州）", "positionLink": "https://hr.tencent.com/position_detail.php?id=38265&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "26381-腾云大数据研发工程师（（合资公司编制--昆明））", "positionLink": "https://hr.tencent.com/position_detail.php?id=38211&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "23295-互娱TGL项目web前端开发工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=38171&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "15571-手游-高级技术美术（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=38148&keywords=python&tid=0&lid=0", "positionType": "设计类"}
+{"positionName": "25923-高级运维工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=38119&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "22989-腾讯云serverless后台开发工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=38142&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "WXG08-121 微信商业算法工程师(广州/北京)", "positionLink": "https://hr.tencent.com/position_detail.php?id=38044&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SNG07-看点高级系统测试工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=38060&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "15612-后台游戏开发工程师(深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=37992&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "22989-腾讯云块存储业务运营开发工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=37994&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SNG11-织云运营开发工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=37997&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "MIG07-安全数据挖掘工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=38016&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "MIG09-NLP算法高级工程师（搜索方向）", "positionLink": "https://hr.tencent.com/position_detail.php?id=37977&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "25928-腾讯游戏云前端开发高级工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=37966&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "18428-财付通金融应用业务测试工程师（北京）", "positionLink": "https://hr.tencent.com/position_detail.php?id=37923&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "OMG097-广告平台产品业务运维（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=37815&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "WXG02-116 微信终端测试开发工程师（广州）", "positionLink": "https://hr.tencent.com/position_detail.php?id=37819&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "WXG02-116 微信小游戏专项测试工程师（广州/深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=37836&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "WXG02-116  微信搜索和信息流系统测试工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=37837&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "WXG08-122 微信推荐数据挖掘算法工程师（北京）", "positionLink": "https://hr.tencent.com/position_detail.php?id=37863&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "MIG16-腾讯地图导航/步行骑行/公交后台开发工程师(北京)", "positionLink": "https://hr.tencent.com/position_detail.php?id=37755&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "WXG02-116 微信后台测试开发工程师（广州）", "positionLink": "https://hr.tencent.com/position_detail.php?id=37817&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "MIG03-AI线上实验平台高级研发工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=37754&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "26699-智慧零售后台开发工程师", "positionLink": "https://hr.tencent.com/position_detail.php?id=37685&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "OMG236-腾讯视频app后台开发高级工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=37715&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "25923-移动游戏运维工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=37606&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "WXG03-122 微信公众平台数据挖掘工程师（广州）", "positionLink": "https://hr.tencent.com/position_detail.php?id=37618&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "20016-《王者荣耀》高级测试开发工程师（成都）", "positionLink": "https://hr.tencent.com/position_detail.php?id=37627&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "25928-游戏AI高级算法工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=37372&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "22989-云存储资深研发工程师（北京）", "positionLink": "https://hr.tencent.com/position_detail.php?id=37324&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SNG02-腾讯云教育行业方案架构师（深圳/北京）", "positionLink": "https://hr.tencent.com/position_detail.php?id=37286&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "22989-腾讯云大数据产品研发专家（北京）", "positionLink": "https://hr.tencent.com/position_detail.php?id=37140&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "22989-腾讯云大数据产品研发工程师（北京）", "positionLink": "https://hr.tencent.com/position_detail.php?id=37141&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "TEG14-高级业务运维工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=36992&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "MIG16-地图数据系统高级开发工程师（北京）", "positionLink": "https://hr.tencent.com/position_detail.php?id=36868&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "26699-智慧零售数据工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=36855&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "MIG16-地图专题数据后台开发工程师-功能方向（北京）", "positionLink": "https://hr.tencent.com/position_detail.php?id=36800&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "25663-腾讯云工业行业方案架构师（北京/上海/成都）", "positionLink": "https://hr.tencent.com/position_detail.php?id=36659&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "OMG236-腾讯视频推荐模型高级工程师（北京）", "positionLink": "https://hr.tencent.com/position_detail.php?id=36707&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "25923-机器学习平台研发工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=36593&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "25923-数据挖掘工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=36594&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "25923-监控系统开发工程师（Python）（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=36598&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "25923-分布式存储高级工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=36599&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "OMG236-视频推荐数据开发工程师（北京）", "positionLink": "https://hr.tencent.com/position_detail.php?id=36562&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "22850-腾讯视频会员数据平台开发工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=36587&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "25923-游戏运维开发工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=36545&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "MIG09-浏览器阅读后台开发工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=36558&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "OMG236-腾讯视频自然语言处理高级工程师（北京）", "positionLink": "https://hr.tencent.com/position_detail.php?id=36566&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "MIG16-手图运营开发工程师（北京）", "positionLink": "https://hr.tencent.com/position_detail.php?id=36510&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "15573-SLG类手游数据分析（上海）", "positionLink": "https://hr.tencent.com/position_detail.php?id=36406&keywords=python&tid=0&lid=0", "positionType": "产品/项目类"}
+{"positionName": "20503-人脸识别研发工程师（上海）", "positionLink": "https://hr.tencent.com/position_detail.php?id=36327&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "20503-人脸分析研发工程师（上海）", "positionLink": "https://hr.tencent.com/position_detail.php?id=36328&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "WXG08-122 微信推荐机器学习算法工程师（北京）", "positionLink": "https://hr.tencent.com/position_detail.php?id=36339&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "WXG08-121 微信模式识别自然语言处理算法工程师（北京）", "positionLink": "https://hr.tencent.com/position_detail.php?id=36340&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "20503-视频监控人体算法研发工程师（上海）", "positionLink": "https://hr.tencent.com/position_detail.php?id=36326&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "MIG16-自动驾驶计算机视觉算法工程师（北京)", "positionLink": "https://hr.tencent.com/position_detail.php?id=36220&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SNG02-腾讯云行业方案架构师（北京/上海/深圳/成都/武汉）", "positionLink": "https://hr.tencent.com/position_detail.php?id=36185&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SNG02-腾讯云行业方案架构师（北京/上海/深圳/成都/武汉）", "positionLink": "https://hr.tencent.com/position_detail.php?id=36186&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SNG02-腾讯云行业方案架构师（北京/上海/深圳/成都/武汉）", "positionLink": "https://hr.tencent.com/position_detail.php?id=36187&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SNG02-腾讯云行业方案架构师（北京/上海/深圳/成都/武汉）", "positionLink": "https://hr.tencent.com/position_detail.php?id=36188&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "MIG16-自动驾驶云平台高级后台开发工程师(北京)", "positionLink": "https://hr.tencent.com/position_detail.php?id=36223&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SNG02-腾讯云行业方案架构师（北京/上海/深圳/成都/武汉）", "positionLink": "https://hr.tencent.com/position_detail.php?id=36184&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SNG07-腾讯云测试开发高级工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=36013&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "23486-后台开发高级工程师（北京）", "positionLink": "https://hr.tencent.com/position_detail.php?id=35958&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "22989-腾讯云运营开发工程师（北京）", "positionLink": "https://hr.tencent.com/position_detail.php?id=35882&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "TEG02-Web前端开发工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=35570&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "TEG02-JAVA开发工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=35572&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "WXG10-116 企业微信测试开发工程师（广州）", "positionLink": "https://hr.tencent.com/position_detail.php?id=35582&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "HY1-数据分析工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=35113&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "28603-116 微信支付测试开发工程师（广州）", "positionLink": "https://hr.tencent.com/position_detail.php?id=35126&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "28603-143 微信支付后台策略安全工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=35128&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "TEG05-数据分析工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=35034&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "TEG05-高级网络安全工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=35035&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "22989-腾讯云serverless高级后台开发工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=34987&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "TEG05-高级安全分析运营工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=35023&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "25663-腾讯云高级后台开发(互联网业务)（北京）", "positionLink": "https://hr.tencent.com/position_detail.php?id=34968&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "TEG05-高级前台开发工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=34977&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "21062-游戏资深引擎开发工程师（上海）", "positionLink": "https://hr.tencent.com/position_detail.php?id=34877&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "WXG02-116 微信搜索和信息流系统测试程师（北京）", "positionLink": "https://hr.tencent.com/position_detail.php?id=34950&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SNG02-腾讯云大数据研发高级工程（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=34819&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "15571-高级技术美术（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=34754&keywords=python&tid=0&lid=0", "positionType": "设计类"}
+{"positionName": "28601-114 微信支付行业应用开发工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=34412&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "20503-计算机视觉专家研究员（上海）", "positionLink": "https://hr.tencent.com/position_detail.php?id=34329&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "TEG15-结算运营平台开发工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=34236&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "MIG16-地图众包计算机视觉高级算法工程师", "positionLink": "https://hr.tencent.com/position_detail.php?id=34109&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "TEG01-自然语言处理工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=33868&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "WXG02-154 微信游戏系统测试工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=33879&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "MIG18-机器学习系统开发工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=33778&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "MIG16-自动驾驶机器人轨迹规划算法工程师", "positionLink": "https://hr.tencent.com/position_detail.php?id=33597&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "MIG16-自动驾驶融合感知(北京)", "positionLink": "https://hr.tencent.com/position_detail.php?id=33599&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "WXG01-122 微信数据科学家（广州））", "positionLink": "https://hr.tencent.com/position_detail.php?id=33448&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "HY1-用户画像大数据分析工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=33461&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "WXG01-122 微信数据挖掘高级工程师（广州）", "positionLink": "https://hr.tencent.com/position_detail.php?id=33471&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "WXG01-111 微信数据分析师（广州）", "positionLink": "https://hr.tencent.com/position_detail.php?id=33326&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "MIG07-数据安全研究（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=33077&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "WXG08-113 微信自然语言处理系统后台开发工程师（北京）", "positionLink": "https://hr.tencent.com/position_detail.php?id=33083&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "TEG09-计算平台研发工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=32828&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "MIG07-安全大数据分析工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=32865&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "TEG13-视觉算法工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=32906&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SNG01-QQ-自然语言处理专家（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=32922&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "22989-高级系统技术工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=32746&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "OMG097-数据开发工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=32642&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "OMG097-数据开发工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=32642&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "MIG07-系统安全研究员（北京）", "positionLink": "https://hr.tencent.com/position_detail.php?id=32114&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "22989-腾讯云资源运营系统开发工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=32193&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "15851-后台开发工程师", "positionLink": "https://hr.tencent.com/position_detail.php?id=32217&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "28600-122 微信支付商户数据挖掘工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=31583&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "28607-111 微信支付数据运营分析师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=31584&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SA-腾讯社交广告数据分析工程师（微信广告 深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=31601&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SA-腾讯社交广告算法工程师（研发中心 深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=31428&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "MIG13-金融风控策略", "positionLink": "https://hr.tencent.com/position_detail.php?id=31168&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "22989-腾讯云中间件web前端开发工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=30949&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "OMG236-腾讯视频搜索排序高级工程师(深圳)", "positionLink": "https://hr.tencent.com/position_detail.php?id=30974&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SA-腾讯社交广告反作弊工程师（微信广告 深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=30298&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SNG07-企点系统测试工程师（上海）", "positionLink": "https://hr.tencent.com/position_detail.php?id=30717&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SNG11-系统技术工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=30051&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "OMG236-视频数据挖掘高级工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=29710&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SNG11-QQ业务高级技术运营工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=29834&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "MIG03-腾讯后台开发工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=29026&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "TEG03-高级算法研发工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=28858&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "TEG14-mysql运维工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=28332&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "TEG13-图像OCR算法工程师(北京)", "positionLink": "https://hr.tencent.com/position_detail.php?id=28349&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "SA-腾讯社交广告高级算法工程师（微信广告 深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=28047&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "OMG236-腾讯视频ios测试工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=27895&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "CS-高级测试工程师", "positionLink": "https://hr.tencent.com/position_detail.php?id=27054&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "18428-金融应用高级运维工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=27219&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "28607-122 微信支付数据挖掘工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=27030&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "OMG236-腾讯视频搜索后台研发工程师（深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=25689&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "OMG236-腾讯视频测试工程师（北京）", "positionLink": "https://hr.tencent.com/position_detail.php?id=23583&keywords=python&tid=0&lid=0", "positionType": "技术类"}
+{"positionName": "OMG236-视频体验优化算法工程师 （深圳）", "positionLink": "https://hr.tencent.com/position_detail.php?id=23193&keywords=python&tid=0&lid=0", "positionType": "技术类"}

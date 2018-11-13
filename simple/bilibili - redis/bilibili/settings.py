@@ -71,7 +71,7 @@ ITEM_PIPELINES = {
    'bilibili.pipelines.BilibiliPipeline': 300,
 }
 
-SQLALCHEMY_DATABASE_URI_1 = 'mysql://root:123456@localhost:3306/crawl_evaluation?charset=utf8'
+SQLALCHEMY_DATABASE_URI_1 = 'mysql://root:123456@192.168.1.111:3306/crawl_evaluation?charset=utf8'
 
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See https://doc.scrapy.org/en/latest/topics/autothrottle.html
@@ -103,8 +103,8 @@ SCHEDULER_PERSIST = False
 SCHEDULER_QUEUE_CLASS = "scrapy_redis.queue.SpiderQueue"
 # SCHEDULER_QUEUE_CLASS = "scrapy_redis.queue.FifoQueue"
 # SCHEDULER_QUEUE_CLASS = "scrapy_redis.queue.PriorityQueue"
-# REDIS_URL = 'redis://172.16.1.77:6379'
-REDIS_HOST = '172.16.1.77'
+# REDIS_URL = 'redis://192.168.1.111:6379'
+REDIS_HOST = '192.168.1.111'
 REDIS_PORT = 6379
 
 HTTPERROR_ALLOWED_CODES = [403]

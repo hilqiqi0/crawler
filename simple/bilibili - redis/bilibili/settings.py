@@ -71,8 +71,7 @@ ITEM_PIPELINES = {
    'bilibili.pipelines.BilibiliPipeline': 300,
 }
 
-# SQLALCHEMY_DATABASE_URI_1 = 'mysql://root:123456@localhost:3306/crawl_evaluation?charset=utf8'
-SQLALCHEMY_DATABASE_URI_1 = 'mysql://recommend:R1QaL1^G0Fpv8^ZT@47.99.39.114:3306/crawl_bilibili?charset=utf8'
+SQLALCHEMY_DATABASE_URI_1 = 'mysql://root:123456@localhost:3306/crawl_evaluation?charset=utf8'
 
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See https://doc.scrapy.org/en/latest/topics/autothrottle.html

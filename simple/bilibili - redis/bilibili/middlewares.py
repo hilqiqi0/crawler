@@ -135,17 +135,27 @@ class ChangeProxy(object):
 
         if len(self.ip_list) < 1:
             print "等待"
+            # 由于一台机器上同事跑多个进程，请求太频繁得不到数据
             time.sleep(10)
             self.getIPData()
 
     def changeProxy(self, request):
+        """
+        修改代理ip
+        """
         print self.ip_list[self.count-1]
         request.meta["proxy"] = "http://" + self.ip_list[self.count-1]
 
     def check(self):
+        """
+        验证代理ip是否可用，默认超时5s
+        """
         print requests.get(url=self.temp_url, proxies={"http": self.ip_list[self.count-1]}, timeout=5).text
 
     def ifUsed(self, request):
+        """
+        切换代理ip的跳板
+        """
         try:
             self.check()
             self.changeProxy(request)
@@ -167,10 +177,11 @@ class ChangeProxy(object):
             self.getIPData()
             self.count = 1
 
-        if self.evecount == 5:
-            self.count = self.count + 1
-            self.evecount = 0
-        else:
-            self.evecount = self.evecount + 1
+        # 每个ip访问6次； 由于此次代码采用验证403响应，访问失败才切换ip
+        # if self.evecount == 5:
+        #     self.count = self.count + 1
+        #     self.evecount = 0
+        # else:
+        #     self.evecount = self.evecount + 1
 
         self.ifUsed(request)

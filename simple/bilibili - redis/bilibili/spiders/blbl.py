@@ -32,10 +32,10 @@ class BlblSpider(RedisCrawlSpider):
 
     rules = (
         # # 首页中 查找 分类链接: 动漫、番剧、国创、舞蹈游戏。。。。
-        # Rule(LinkExtractor(restrict_xpaths='//ul[@class="nav-menu"]/li/a'),
-        #      process_request='parse_nav_process',
-        #      callback='parse_nav_item',
-        #      follow=True),
+        Rule(LinkExtractor(restrict_xpaths='//ul[@class="nav-menu"]/li/a'),
+             process_request='parse_nav_process',
+             callback='parse_nav_item',
+             follow=True),
         # 分类链接中 查找 更多
         Rule(LinkExtractor(restrict_xpaths='//div[@class="zone-title"]//a'),
              process_request='parse_nav_more_process',

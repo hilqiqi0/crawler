@@ -27,8 +27,8 @@ class PSpider(scrapy.Spider):
         token = re.search(r'pixiv.context.token = "(.*?)"', response.body).group(1)
 
         post_data = {
-            "pixiv_id": "2310775309@qq.com",
-            "password": "hilqiqi0",
+            "pixiv_id": "xxxxxxxxxxx@qq.com",
+            "password": "*********",
             "captcha": "",
             "g_recaptcha_response": "",
             "post_key": token,
